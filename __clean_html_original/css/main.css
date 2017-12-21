@@ -23,4 +23,5 @@ section,
   position: relative; }
 
 .main_head {
-  min-height: 620px; }
+  min-height: 620px;
+  z-index: -1; }
